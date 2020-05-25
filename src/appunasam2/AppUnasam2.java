@@ -9,6 +9,6 @@ public class AppUnasam2 {
         g.setLocationRelativeTo(null);
         g.setTitle("APP UNASAM");
         g.setSize(500, 500);
-
+	System.out.println("Estamos utilizando Git");
     }
 }
